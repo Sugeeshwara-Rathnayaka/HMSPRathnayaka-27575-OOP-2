@@ -1,0 +1,8 @@
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\bin\Debug\Prac05-04.exe.config
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\bin\Debug\Prac05-04.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\bin\Debug\Prac05-04.pdb
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\obj\Debug\Prac05-04.csproj.AssemblyReference.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\obj\Debug\Prac05-04.csproj.SuggestedBindingRedirects.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\obj\Debug\Prac05-04.csproj.CoreCompileInputs.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\obj\Debug\Prac05-04.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac05-04\obj\Debug\Prac05-04.pdb
